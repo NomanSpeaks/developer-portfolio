@@ -6,6 +6,7 @@ h1{font-size: 50px;}
 .color-orange{color: orange;}
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{width: 50%;
 padding-left: 3%;}
@@ -23,4 +24,9 @@ padding-left: 3%;}
 .top-banner{
 background-image: url(images/top-banner.png);
 background-repeat: no-repeat;
+}
+.big-dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
